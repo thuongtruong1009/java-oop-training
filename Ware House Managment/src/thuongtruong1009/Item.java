@@ -1,8 +1,12 @@
-package wareHouseManagment;
+package thuongtruong1009;
 
 import java.io.Serializable;
 
 public class Item implements Serializable{
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private String productName;
 	private int amount;
 	private String description;
