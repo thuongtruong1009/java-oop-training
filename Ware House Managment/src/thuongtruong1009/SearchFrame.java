@@ -1,4 +1,4 @@
-package wareHouseManagment;
+package thuongtruong1009;
 
 import java.awt.Color;
 import java.awt.event.ActionEvent;
@@ -55,7 +55,7 @@ public class SearchFrame extends JFrame{
             public void actionPerformed(ActionEvent e) {
 
                 try {
-                    FileInputStream fis = new FileInputStream("D:/THUONG TRUONG INC/CODE PROGRAMMING/Java Code/Lab6-OOP-ITITIU19228/src/wareHouseManagment/lab6Text.txt");
+                    FileInputStream fis = new FileInputStream("./src/newText.txt");
                     ObjectInputStream ois = new ObjectInputStream(fis);
 
                     items = (ArrayList<Item>) ois.readObject();
@@ -103,4 +103,3 @@ public class SearchFrame extends JFrame{
 	        return "";
 	    }
 }
-
