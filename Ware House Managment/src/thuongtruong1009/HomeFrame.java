@@ -1,4 +1,4 @@
-package com.thuongtruong1009;
+package thuongtruong1009;
 
 import java.awt.Color;
 import java.awt.Font;
@@ -21,6 +21,10 @@ import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
 public class HomeFrame extends JFrame{
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private JList list;
 	private final ArrayList<Item> items = new ArrayList<>();
 	private static final DefaultListModel<String> listOfProduct = new DefaultListModel<>();
@@ -135,7 +139,7 @@ public class HomeFrame extends JFrame{
 	}
 		public void writeInfor(ArrayList arrayList) {
 	        try {
-	            FileOutputStream fos = new FileOutputStream("D:/THUONG TRUONG INC/CODE PROGRAMMING/Java Code/Lab6-OOP-ITITIU19228/src/wareHouseManagment/lab6Text.txt");
+	            FileOutputStream fos = new FileOutputStream("./src/newText.txt");
 	            ObjectOutputStream oos = new ObjectOutputStream(fos);
 
 	            oos.writeObject(arrayList);
