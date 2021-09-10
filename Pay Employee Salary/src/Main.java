@@ -4,7 +4,6 @@ import java.util.ArrayList;
 
 public class Main {
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		ArrayList<Employee> list= new ArrayList<Employee>();
 		list.add(new Employee("ITITIU19181", "Phong", 18000, 6, 9));
         list.add(new Employee("ITITIU19236", "Tung", 25000, 31, 7));
