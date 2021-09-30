@@ -1,6 +1,6 @@
 package thuongtruong1009;
 
-public class AccounTest {
+public class AccountTest {
 
 	public static void main(String[] args) {
 		SavingAccount momsSavings = new SavingAccount(0.5);	
