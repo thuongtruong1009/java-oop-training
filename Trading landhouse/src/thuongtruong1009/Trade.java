@@ -3,7 +3,7 @@ import java.util.Scanner;
 /*
  * Code by https://github.com/thuongtruong1009/java-oop-training
  */
-public class Trande {
+public class Trade {
 	private String code, time;
 	private double price;
 	private double area;
