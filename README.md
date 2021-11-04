@@ -1,6 +1,6 @@
 [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
 ![CI](https://github.com/thuongtruong1009/java-and-oop-training/actions/workflows/ci.yml/badge.svg)
-[![CodeFactor](https://www.codefactor.io/repository/github/thuongtruong1009/java-and-oop-training/badge)](https://www.codefactor.io/repository/github/thuongtruong1009/java-and-oop-training)
+[![CodeFactor](https://www.codefactor.io/repository/github/thuongtruong1009/java-oop-training/badge)](https://www.codefactor.io/repository/github/thuongtruong1009/java-oop-training)
 
 # Java and OOP training
 ### Install tool and run:
