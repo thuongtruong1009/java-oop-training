@@ -29,14 +29,13 @@
 • Don't forget to bonus for me with 1 star.
 ```
 ### Reference:
-```markdown
 • Learning front-end full course at [Front-end](https://github.com/thuongtruong1009/challenge-resposive-web-design-in-300hrs)
 • Make final Java project at [Snake-Game-OOP](https://github.com/thuongtruong1009/Snake-Game-OOP)
 • Get Java support at [Oracle](https://oracle.org/java/)
-```
+
 ### Contact
 * Join me in the development to build perfect products
 * You can clone/fork/download or contribute and discuss them to develop. It can save it on history.
-* Any problem, should contact me via ititiu19228@student.hcmiu.edu.vn
+* Any problem, should contact me via [email](mailto:ititiu19228@student.hcmiu.edu.vn)
 * [Copyright](LICENSE) of 2021, [@thuongtruong1009](https://github.com/thuongtruong1009).
 ##### Thank you! 
